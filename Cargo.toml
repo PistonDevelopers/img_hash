@@ -14,7 +14,7 @@ keywords = ["image", "hash", "perceptual", "difference"]
 
 repository = "http://github.com/cybergeek94/img_hash"
 
-[dependencies]
+[dependencies.image]
 
-image = "*"
+git = "https://github.com/pistondevelopers/image"
 
